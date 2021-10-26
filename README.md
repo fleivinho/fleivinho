@@ -1,8 +1,15 @@
-## Hello
+
+# Hi there 👋
+
+Hi, I'm **Wypixel** and I develop Minecraft Plugins and Bots for Discord in **Java**
+
+🔭 I’m currently working on [@ZyleStudio](https://github.com/zylestudio) and various open-source projects
+
+⚡ Fun fact: I started programming at 13  
+
+😄 Age: **15y**
+
 <div align="center">
-  <a href="https://github.com/wypixel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wypixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wypixel&layout=compact&langs_count=7&theme=dracula"/>
   
   ##
  
