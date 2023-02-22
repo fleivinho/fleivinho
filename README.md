@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Sobre mim
 
-<!--
-**fleivinho/fleivinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou um desenvolvedor Java Junior com experiência em Bukkit. Atualmente trabalho no desenvolvimento de plugins para Minecraft em meu site [LeafPlugins.com](https://leafplugins.com). Estou sempre buscando novas oportunidades para me desenvolver e aprender mais sobre programação.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Conhecimento em Java e programação orientada a objetos
+- Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
+- Conhecimento básico de bancos de dados relacionais e SQL
+- Conhecimento básico de Git e Github
+
+## 🚀 Projetos em destaque
+
+- [LeafPlugins.com](https://leafplugins.com): Meu site pessoal onde disponibilizo meus plugins e recursos para a comunidade Minecraft.
