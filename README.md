@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-Olá, sou um desenvolvedor Java Junior com experiência em Bukkit. Atualmente trabalho no desenvolvimento de plugins para Minecraft em meu site [LeafPlugins.com](https://leafplugins.com). Estou sempre buscando novas oportunidades para me desenvolver e aprender mais sobre programação.
+Olá, sou um desenvolvedor Java Pleno com experiência em Bukkit. Atualmente trabalho no desenvolvimento de plugins para Minecraft em meu site [LeafPlugins.com](https://leafplugins.com). Estou sempre buscando novas oportunidades para me desenvolver e aprender mais sobre programação.
 
 ## 🔧 Habilidades
 
