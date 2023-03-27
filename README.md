@@ -12,4 +12,5 @@ Olá, sou um desenvolvedor Java Pleno com experiência em Bukkit. Atualmente tra
 ## 🚀 Projetos em destaque
 
 - [LeafPlugins.com](https://leafplugins.com): Meu site pessoal onde disponibilizo meus plugins e recursos para a comunidade Minecraft.
+- [FPluginLoader](https://github.com/fleivinho/FPluginLoader): Uma biblioteca para auxiliar no desenvolvimento de plugins, como também servir de estudos.
 - [DatabaseExample](https://github.com/fleivinho/DatabaseExample): Um projeto com exemplo de uso de banco de dados e cache e código limpo.
