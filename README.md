@@ -6,10 +6,6 @@
   <a href="https://twitter.com/fleivinho"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fleivinho?style=flat-square"></a>
 </p>
 
-<p align="center">
-  <img width="300" height="300" src="https://avatars.githubusercontent.com/u/79768336?v=4">
-</p>
-
 <p align="center">Olá, eu sou um desenvolvedor Java Pleno com experiência em Bukkit. Atualmente, estou focado em desenvolver plugins para Minecraft no meu site <a href="https://leafplugins.com">LeafPlugins.com</a>.</p>
 
 <h2 align="center">🔧 Habilidades</h2>
