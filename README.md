@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://leafplugins.com"><img alt="Website" src="https://img.shields.io/badge/website-leafplugins.com-blue?style=flat-square"></a>
-  <a href="https://github.com/fleivinho"><img alt="GitHub followers" src="https://img.shields.io/github/followers/fleivinho?style=flat-square"></a>
 </p>
 
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
