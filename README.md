@@ -5,7 +5,7 @@
   <a href="https://github.com/fleivinho"><img alt="GitHub followers" src="https://img.shields.io/github/followers/fleivinho?style=flat-square"></a>
 </p>
 
-<p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, estou focado em desenvolver plugins para Minecraft no meu site <a href="https://leafplugins.com">LeafPlugins.com</a>.</p>
+<p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando em <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
 
 <h2 align="center">🔧 Habilidades</h2>
 <p align="center">
@@ -18,7 +18,7 @@
 
 - Conhecimento em Java e programação orientada a objetos
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
-- Conhecimento básico de bancos de dados relacionais e SQL
+- Conhecimento em bancos de dados relacionais e SQL
 - Conhecimento básico de Git e Github
 
 <h2 align="center">🚀 Projetos em destaque</h2>
@@ -26,7 +26,6 @@
 <p align="center">
   
 - [LeafPlugins.com](https://leafplugins.com): Meu site onde disponibilizo meus plugins e recursos para a comunidade Minecraft.
-- [FPluginLoader](https://github.com/fleivinho/FPluginLoader): Uma biblioteca para auxiliar no desenvolvimento de plugins, como também servir de estudos.
 - [DatabaseExample](https://github.com/fleivinho/DatabaseExample): Um projeto com exemplo de uso de banco de dados e cache e código limpo.
   
 </p>
