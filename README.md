@@ -2,7 +2,8 @@
 
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
-<h2>🔧 Habilidades</h2>
+
+<h2>Já trabalhei com</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
   <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-9fcf00?style=flat-square&logo=Java&logoColor=white">
@@ -10,6 +11,8 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white">
 </p>
+
+<h2>Conhecimentos</h2>
 
 - Conhecimento em Java e programação orientada a objetos
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
