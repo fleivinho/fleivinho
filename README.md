@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="right">
 
-<h1>Bem-vindo ao meu perfil! 👋</h1>
+<h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 
 <p align="center">
   <a href="https://leafplugins.com"><img alt="Website" src="https://img.shields.io/badge/website-leafplugins.com-blue?style=flat-square"></a>
