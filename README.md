@@ -1,9 +1,7 @@
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="left">
 
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
-
-
 <h2>🔧 Habilidades</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
@@ -18,6 +16,8 @@
 - Conhecimento em bancos de dados relacionais e SQL
 - Conhecimento básico de Git e Github
 
+ <img height="170em" src="https://lanyard.cnrad.dev/api/584186610929893377" align="right"/>
+ 
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
   
