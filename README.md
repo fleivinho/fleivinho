@@ -8,6 +8,7 @@
 
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
 
+
 <h2 align="center">🔧 Habilidades</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
