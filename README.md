@@ -22,8 +22,7 @@
 - Conhecimento em bancos de dados relacionais e SQL
 - Conhecimento básico de Git e Github
 
-<h2 align="center">🚀 Projetos em destaque</h2>
-
+<h2>🚀 Projetos em destaque</h2>
 <p align="center">
   
 - [LeafPlugins.com](https://leafplugins.com): Meu site onde disponibilizo meus plugins e recursos para a comunidade Minecraft.
