@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="right">
 
-<h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
+<h1>Bem-vindo ao meu perfil! 👋</h1>
 
 <p align="center">
   <a href="https://leafplugins.com"><img alt="Website" src="https://img.shields.io/badge/website-leafplugins.com-blue?style=flat-square"></a>
@@ -8,7 +8,7 @@
 
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
 
-<h2 align="center">🔧 Habilidades</h2>
+<h2>🔧 Habilidades</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
   <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-9fcf00?style=flat-square&logo=Java&logoColor=white">
