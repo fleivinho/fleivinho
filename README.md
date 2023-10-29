@@ -12,7 +12,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white">
 </p>
 
-<h2></h2>
+<h2>Um pouco mais...</h2>
 
 - Conhecimento em Java e programação orientada a objetos
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
