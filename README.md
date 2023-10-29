@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="400px" align="right">
 
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 
@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">Olá, eu sou um desenvolvedor Java com experiência em Bukkit. Atualmente, cursando no <a href="https://ifrj.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)</a>.</p>
-
 
 <h2 align="center">🔧 Habilidades</h2>
 <p align="center">
