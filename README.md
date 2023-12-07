@@ -18,8 +18,6 @@
 - Familiaridade com Bukkit e desenvolvimento de plugins para Minecraft
 - Conhecimento em bancos de dados relacionais e SQL
 - Conhecimento básico de Git e Github
-
- <img height="170em" src="https://lanyard.cnrad.dev/api/584186610929893377" align="right"/>
  
 <h2>🚀 Projetos em destaque</h2>
 <p align="center">
