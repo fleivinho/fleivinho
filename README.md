@@ -2,7 +2,6 @@
 
 <p align="center">
   Desenvolvedor <b>Backend</b> com foco em <b>Java</b> ☕<br/>
-  Também atuo com <b>SQL</b>, <b>TypeScript</b> e <b>React</b> quando necessário 🚀
 </p>
 
 <p align="center">
