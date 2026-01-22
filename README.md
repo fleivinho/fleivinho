@@ -45,8 +45,8 @@
 
 ## 📊 Stats
 <p align="center">
-  <img height="170em" src="https://fleiv-stats.vercel.app/api?username=fleivinho&show_icons=true&include_forks=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://fleiv-stats.vercel.app/api/top-langs/?username=fleivinho&layout=compact&count_private=true&langs_count=4&hide=ShaderLab,MDX,HTML,CSS,HLSL,MDX,Mathematica&theme=tokyonight&hide_border=true&include_forks=true"/>
+  <img height="150em" src="https://fleiv-stats.vercel.app/api?username=fleivinho&show_icons=true&include_forks=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://fleiv-stats.vercel.app/api/top-langs/?username=fleivinho&layout=compact&count_private=true&langs_count=4&hide=ShaderLab,MDX,HTML,CSS,HLSL,MDX,Mathematica&theme=tokyonight&hide_border=true&include_forks=true"/>
 </p>
 
 ---
