@@ -39,7 +39,7 @@
 - 🎓 Técnico de Informática pelo **Instituto Federal do Rio de Janeiro (IFRJ)**  
 - ⛏️ Desde os **15 anos**, desenvolvo **plugins de Minecraft (Spigot/Paper)** em **Java** na [Leaf Plugins](https://leafplugins.com)  
 - 🎯 Gosto de resolver problemas reais com soluções bem feitas, organizadas e performáticas  
-- 🏆 **1º Lugar** — “SocioLudo Digital” na XI Mostra de Trabalhos de Cursos Técnicos (Exatas e Tecnológicas)
+- 🏆 **1º Lugar** — “SocioLudo Digital” na XI Mostra de Trabalhos de Cursos Técnicos (Exatas e Tecnológicas) **[UNICAMP, SP]**
 
 ---
 
