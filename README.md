@@ -1,7 +1,7 @@
 <h1 align="center">Flávio Soares</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior | Java, TypeScript, React/Next.js, C#, SQL e APIs REST
+  Desenvolvedor Full Stack | Java, TypeScript, React/Next.js, C#, SQL e APIs REST
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-Sou técnico em Informática pelo **IFRJ** e desenvolvedor full stack júnior com experiência prática criando produtos digitais em produção, APIs REST, integrações de pagamento, painéis administrativos, interfaces web e plugins Java para Minecraft.
+Sou técnico em Informática pelo **IFRJ** e desenvolvedor full stack com experiência prática criando produtos digitais em produção, APIs REST, integrações de pagamento, painéis administrativos, interfaces web e plugins Java para Minecraft.
 
 Na **Leaf Delta / LeafPlugins**, construo um ecossistema usado por clientes reais, com **+1000 usuários registrados**, **+1.2k licenças emitidas** e **+750 vendas**. Gosto de código limpo, performance, compatibilidade e soluções que continuam fáceis de manter depois que chegam em produção.
 
